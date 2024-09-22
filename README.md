@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rucel 
+- 👋 Hi, I’m Developer Rucel 
 - 👀 I’m interested in web development and cybercecurity
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on development project
-- 📫 How to reach me cybercorps237@gmail.com // +237 672043329
+- 📫 How to reach me developerrucel7@gmail.com // +237 672043329
 
 
 <!---
